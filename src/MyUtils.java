@@ -11,8 +11,11 @@ public class MyUtils {
 
 	}
 	
-	public static int addSum(int x, int y) {
+	public static int addSum(int x, int y) { // return type
 		return x + y;
 	}
+//	private static int addSum(int x, int y) { // return type
+//		return x + y;
+//	}
 
 }

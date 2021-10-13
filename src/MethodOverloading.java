@@ -8,6 +8,10 @@ public class MethodOverloading {
 		System.out.println("Area of rectangle: " + area(5));
 		
 		printSomething("hoge", 15);
+		
+		//1. differ in numbers of parameters
+		//2. differ in data type of parameters
+		//3. differ in order of parameters
 
 	}
 	
